@@ -2,7 +2,7 @@
 ## I'm a java-developer
 
 - 🔭 Currently, I mostly work on web applications on Java, Spring Framework and related technologies
-- 👯 I’m looking to collaborate on effective teams in the field of finTech, edTech, healthTech, hrTech or retailTech
+- 👯 I’m looking to collaborate on effective teams in the field of finTech, retailTech, edTech, or hrTech
 <!--
 - 🔭 Currently, I mostly work on web applications in Java, Spring Framework and other related technologies
 - 👯 I’m looking to collaborate on effective teams in the field of finTech, edTech, healthTech, hrTech or retailTech
