@@ -14,5 +14,3 @@ _I use_<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
-![My github stats](https://github-readme-stats.vercel.app/api?username=ldv236&show_icons=true&theme=slateorange )
-<br>
